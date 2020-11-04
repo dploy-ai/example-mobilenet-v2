@@ -1,8 +1,0 @@
-model_id: 5a4fc885-4810-4d80-ad76-d73b95c79301
-spec_version: v2
-spec:
-  environment:
-    base: python:3.7
-    entrypoint: object_detection.ipynb
-    requirements: ["requirements.txt"]
-  replicas: 1
