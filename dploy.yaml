@@ -1,0 +1,9 @@
+model_uuid: 7908cb72-522a-4b5f-9991-72007602aa24
+spec_version: v2
+spec:
+  base: python:3.7
+  args:
+    entrypoint: mobilenetv2/object_detection.ipynb
+    requirements: ["requirements.txt"]
+deployment:
+  replicas: 1
