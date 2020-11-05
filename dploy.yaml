@@ -1,4 +1,4 @@
-model_uuid: 7908cb72-522a-4b5f-9991-72007602aa24
+model_name: object-detection-mobilenetv2-mx88d5k2u4p1
 spec_version: v2
 spec:
   base: python:3.7
